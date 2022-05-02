@@ -1,0 +1,3 @@
+operator1 P@$$w0rd
+operator2 P@$$w0rd
+operator3 P@$$w0rd
